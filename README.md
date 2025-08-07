@@ -17,6 +17,6 @@
 
 **<h3 align="left">Snapshot</h3>**
 
-- Currently working on: **💻 Testing each model until they break on me + **
-- Currently learning: **📚 Agentic web & future of products**
-- Ask me about: **💡 Full-stack solutions, Automations, Business development**
+- Currently working on: **Testing each model until they break on me + **
+- Currently learning: **Agentic web & future of products**
+- Ask me about: **Full-stack solutions, Automations, Business development**
